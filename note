@@ -1,0 +1,13 @@
+gnuplot
+splot 'filename'
+more pc
+load 'pc'
+
+
+for plotting:
+Got to local
+gnuplot
+splot 'filename'
+
+for compile:
+sbatch temp.bat
